@@ -1,0 +1,7 @@
+{
+    "category": "Cultura",
+    "question" : "Que se necesita para hacer paella?",
+    "options" : ["Arroz, vegetales, caldo y mariscos.", "Arroz, vegetales, vino y mariscos.", "Arroz, vegetales, vodka y mariscos."],
+    "answer": 0,
+    "explanation": "Primero debes saltear los vegetales, luego agregar el arroz con el caldo y los mariscos."
+}
